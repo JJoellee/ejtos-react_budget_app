@@ -1,1 +1,2 @@
-# coding-project-template
+# React Budget App
+Using Redux
